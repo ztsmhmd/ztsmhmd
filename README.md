@@ -1,6 +1,6 @@
 <div align="center">
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mohadevx&show_icons=true&theme=transparent&hide_rank=true&hide=issues,contribs&include_all_commits=true&line_height=30&hide_border=true" />
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohadevx&layout=compact&theme=transparent&hide=C%23&langs_count=6&hide_border=true" />
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mohadevx&show_icons=true&theme=transparent&hide_rank=true&hide=issues,contribs&include_all_commits=true&line_height=30" />
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohadevx&layout=compact&theme=transparent&hide=C%23&langs_count=6" />
 </div>
 
 
